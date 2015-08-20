@@ -1,0 +1,2 @@
+# PageControlAndScrollView
+用PageControl和ScrollView实现软件安装完打开时的介绍界面
